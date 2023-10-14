@@ -473,7 +473,7 @@ h6 {
 
 @media (max-width: 991px) {
   #hero {
-    height: 120vh;
+    height: 118vh;
     text-align: center;
   }
 
@@ -1241,7 +1241,7 @@ section {
 .pricing h3 {
   font-weight: 500;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 16.55px;
   color: #e56b15;
 }
 
