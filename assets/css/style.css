@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
 
-  background-image: url('https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif?cid=ecf05e47xt6mcjc4euybna5fo72bmn2il19bjf9esq5jjcdw&ep=v1_gifs_search&rid=giphy.gif&ct=g'); /* Ganti 'background.gif' dengan nama file gambar bergerak Anda */
+  background-image: url('https://i.gifer.com/VkcF.gif'); /* Ganti 'background.gif' dengan nama file gambar bergerak Anda */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; /* Ini membuat background tetap saat scrolling */
